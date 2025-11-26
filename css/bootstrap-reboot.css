@@ -598,4 +598,7 @@ progress {
   display: none !important;
 }
 
+textarea{
+  resize: none;
+}
 /*# sourceMappingURL=bootstrap-reboot.css.map */
