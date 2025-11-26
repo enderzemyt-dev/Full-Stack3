@@ -19,6 +19,10 @@
   margin-right: auto;
 }
 
+textarea{
+  resize: none;
+}
+
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
