@@ -3,6 +3,10 @@
  * Copyright 2011-2025 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+textarea{
+  resize: none;
+}
+
 .container,
 .container-fluid,
 .container-xxl,
